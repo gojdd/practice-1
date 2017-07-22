@@ -2,5 +2,3 @@ array=["red","green","white"]
 puts array
 array.push("pink","gold")
 puts array
-#test
-#上手くいかないaddどこだ？commitできるわ
