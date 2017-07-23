@@ -6,3 +6,5 @@ puts "soso...."
 else
 puts "very bad!"
 end
+
+#テスト
