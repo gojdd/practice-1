@@ -1,3 +1,3 @@
-ruby "2.3.3"
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 gem 'twitter'
+gem 'better_errors'
